@@ -1,7 +1,9 @@
 {
 	"name": "fcc-learn-npm-package-json",
+  "version": "1.2.0",
 	"author": "msalmatov",
 	"description": "A project that does something awesome",
+  "license": "MIT",
 	"keywords": [
 		"freecodecamp",
 		"related",
